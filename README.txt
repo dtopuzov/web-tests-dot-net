@@ -1,1 +1,0 @@
-Find inner Text: String innerText = ((JavascriptExecutor)driver).executeScript("return arguments[0].innerText", element);
